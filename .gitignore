@@ -1,0 +1,8 @@
+npm-debug.log
+.DS_Store
+.*.swp
+node_modules/
+.*.txt
+.*.cpuprofile
+.hubot_history
+*/.gitignore
